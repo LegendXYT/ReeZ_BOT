@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LegendXYT/ReeZ.git"
+    "url": "git+https://github.com/LegendXYT/ReeZ_BOT"
   },
   "author": "Legend X",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LegendXYT/ReeZ/issues"
+    "url": "https://github.com/LegendXYT/ReeZ_BOT/issues"
   },
-  "homepage": "https://github.com/LegendXYT/ReeZ#readme",
+  "homepage": "https://github.com/LegendXYT/ReeZ_BOT#readme",
   "dependencies": {
     "discord.js": "^11.5.1"
   }
